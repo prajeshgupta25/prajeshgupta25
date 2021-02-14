@@ -5,6 +5,7 @@ I’m Prajesh Gupta who is passionate about technologies and inventions yet not 
 - 👀 I’m interested in Web Technologies mainly the backend, also much into competitive programming.
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source Projects and Get myself ready for next year Interviews and Placement Rounds. 
 - 📫 How to reach me - imprj.gupta@gmail.com
+- Linkedin - https://www.linkedin.com/in/prajesh-gupta/
 
 
 <!---
