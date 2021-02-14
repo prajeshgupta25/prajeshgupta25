@@ -21,9 +21,6 @@ I’m Prajesh Gupta who is passionate about technologies and inventions yet not 
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajeshgupta25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
-
-
 <table>
 <thead>
 <tr>
