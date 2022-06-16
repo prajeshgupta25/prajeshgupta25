@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajaypradhan](https://github.com/prajeshgupta25)
+- 👨‍💻 All of my projects are available at [https://github.com/prajeshgupta25](https://github.com/prajeshgupta25)
 
 - 👀 I’m interested in Web Technologies mainly the Automation Testing using Selenium, Maven, TestNG, JUnit, also much into competitive programming.
 
