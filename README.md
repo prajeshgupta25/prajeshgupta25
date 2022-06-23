@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypradhan" alt="ajaypradhan" /></a> </p> -->
 
-- 🔭 I’m currently working on WebDriverIO Automation Framework(https://github.com/prajeshgupta25/Automation_WDIO)
+- 🔭 I’m currently working on Selenium_CucumberBDD_Framework using NodeJS (https://github.com/prajeshgupta25/Selenium_Cucumber_Framework)
 - 🌱 I am currently working as a Software Engineer with Qualitest. I have worked as a Database Associate Intern at SAPIO ANALYTICS for a duration of 3 months and also worked as a Web Development and Designing Intern at Sparks Foundation for a month.
 
 - 👯 I’m looking to collaborate on **Open Source Project**
