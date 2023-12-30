@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in Web Technologies mainly the Automation Testing using Selenium, Maven, TestNG, JUnit, also much into competitive programming.
 
-- 🥅 2022 Goals : Have a good CP profile & Contribute to Open Source Projects. 
+- 🥅 2024 Goals : Have a good CP profile & Contribute to Open Source Projects. 
 
 - 📫 How to reach me - imprj.gupta@gmail.com
 
